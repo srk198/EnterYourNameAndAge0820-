@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasicIOApp2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39e00ed0987adf99d326214d2f2ef91663bf2a14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6b12b934c7c722754806b8fdf9e03222367d1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasicIOApp2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasicIOApp2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
