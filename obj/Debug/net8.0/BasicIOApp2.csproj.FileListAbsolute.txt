@@ -12,3 +12,18 @@ C:\Users\srikanthpa.DATAMARSHALL\source\repos\BasicIOApp2\obj\Debug\net8.0\refin
 C:\Users\srikanthpa.DATAMARSHALL\source\repos\BasicIOApp2\obj\Debug\net8.0\BasicIOApp2.pdb
 C:\Users\srikanthpa.DATAMARSHALL\source\repos\BasicIOApp2\obj\Debug\net8.0\BasicIOApp2.genruntimeconfig.cache
 C:\Users\srikanthpa.DATAMARSHALL\source\repos\BasicIOApp2\obj\Debug\net8.0\ref\BasicIOApp2.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\bin\Debug\net8.0\BasicIOApp2.exe
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\bin\Debug\net8.0\BasicIOApp2.deps.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\bin\Debug\net8.0\BasicIOApp2.runtimeconfig.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\bin\Debug\net8.0\BasicIOApp2.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\bin\Debug\net8.0\BasicIOApp2.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.AssemblyInfoInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.AssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.csproj.CoreCompileInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.sourcelink.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\refint\BasicIOApp2.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\BasicIOApp2.genruntimeconfig.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\New folder\EnterYourNameAndAge0820-\obj\Debug\net8.0\ref\BasicIOApp2.dll
